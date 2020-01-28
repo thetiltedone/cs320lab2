@@ -1,1 +1,4 @@
-# cs320lab2
+# Great Solutions Inc.
+
+We solve problems.
+ 
